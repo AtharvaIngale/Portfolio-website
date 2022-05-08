@@ -1,4 +1,4 @@
-# LGM_VIP_task1_OnePageWebsite
-
-The project is created for LGM VIP Jan 2022.
+# Portfolio_website
 The project is created by Atharva Ingale.
+Technology used- HTML and CSS.
+This website showcases my portfolio.
