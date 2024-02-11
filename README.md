@@ -6,6 +6,7 @@
 #### Some snapshot of website
 <br>
 ##### 1. Landing Page
+
 ![Web capture_23-7-2022_133414_](https://user-images.githubusercontent.com/94461630/180596521-b0f30ec6-0057-4f54-8d28-d22e72c0e58c.jpeg)
 <br>
 ##### 2. Web Page
